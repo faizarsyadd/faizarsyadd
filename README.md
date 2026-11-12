@@ -74,35 +74,35 @@ I'm passionate about software development, especially building modern web applic
 
 <!-- ================= GITHUB STATS ================= -->
 
-## 📊 GitHub Analytics
+
+<h2>📊 GitHub Analytics</h2>
 
 <div align="center">
 
 <a href="https://github.com/faizarsyadd">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=faizarsyadd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"/>
 </a>
 
 <a href="https://github.com/faizarsyadd">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizarsyadd&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </a>
 
 <br/><br/>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=faizarsyadd&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-<!-- ================= ACTIVITY GRAPH ================= -->
-
-## 📈 Contribution Activity
+<h2>📈 Contribution Activity</h2>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=faizarsyadd&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true"/>
 
 </div>
+
 
 ---
 
